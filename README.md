@@ -21,19 +21,6 @@ Neste projeto iremos fazer a tela Home do e-commerce de produtos naturais Orgs. 
   - Hooks de React Native
   - Hooks Customizados
 
-## 📁 Acesso ao projeto
-
-Você pode baixar diretamente o zip do projeto usando os links abaixo:
-- [Aula 1](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula1.zip)
-- [Aula 2](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula2.zip)
-- [Aula 3](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula3.zip)
-- [Aula 4 (Projeto Completo)](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula4.zip)
-- [Desafio  (Projeto Completo com Desafio)](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Desafio.zip)
-
 ## 🛠️ Abrir e rodar o projeto
 
 Para instalar o React Native e o ambiente nativo na sua máquina siga os passos do [artigo de configuração de ambiente](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native).
-
-## 📚 Mais informações do curso
-
-Aguardando link# Hooks
